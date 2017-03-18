@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Pdifinal</string>
+    <string name="title_activity_stress_log">Stress Levels Log</string>
 </resources>
